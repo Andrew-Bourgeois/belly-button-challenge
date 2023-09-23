@@ -4,9 +4,10 @@ UNC-CH-DA - Module 14 Challenge - belly-button-challenge
 * Andrew Bourgeois
 
 ### **INSTRUCTIONS**
+* To visit the deployed app in GitHub Pages visit:  [Bourgeois Belly Button Biodiversity Dashboard](https://andrew-bourgeois.github.io/belly-button-challenge/) 
 
 ### **BACKGROUND**
-Build an interactive dashboard to explore the Belly Button Biodiversity dataset, cataloging microbes which colonize human navels.
+Build an interactive dashboard to explore the [Belly Button Biodiversity](https://robdunnlab.com/projects/belly-button-biodiversity/) dataset, which catalogs microbes colonizing human navels.
 
 ### **REQUIREMENTS**
 
@@ -47,6 +48,7 @@ Build an interactive dashboard to explore the Belly Button Biodiversity dataset,
 
 ### **RESOURCES**
 
+* Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
 * Python color scales: https://plotly.com/python/builtin-colorscales/ 
 * Plotly Gauge reference: 
     - https://plotly.com/python/gauge-charts/
