@@ -63,8 +63,6 @@ function createCharts(idNoData, idMetaData) {
         margin: {
             t: 50,
             b: 40
-            // l:,
-            // r:
         },
         //height: ,
         //width: 
