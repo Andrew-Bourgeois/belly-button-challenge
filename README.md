@@ -5,6 +5,8 @@ UNC-CH-DA - Module 14 Challenge - belly-button-challenge
 
 ### **INSTRUCTIONS**
 * To visit the deployed app in GitHub Pages visit:  [Bourgeois Belly Button Biodiversity Dashboard](https://andrew-bourgeois.github.io/belly-button-challenge/) 
+* the main app.js can be found in the repository at: /static/js/app.js
+* the index.html file can ge found in the main seciton of the repository.
 
 ### **BACKGROUND**
 Build an interactive dashboard to explore the [Belly Button Biodiversity](https://robdunnlab.com/projects/belly-button-biodiversity/) dataset, which catalogs microbes colonizing human navels.
