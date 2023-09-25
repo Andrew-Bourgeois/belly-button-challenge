@@ -75,6 +75,7 @@ function createCharts(idNoData, idMetaData) {
     let traceBubble = [{
         x: idNoIds,
         y: idNoValues,
+       
         text: idNoLabels,
         mode: 'markers',
         marker: {
@@ -86,6 +87,7 @@ function createCharts(idNoData, idMetaData) {
     }];
     let layoutBubble = {
         title: "# of Bacteria Per Sample",
+        xaxis: { title: "OTU ID" },
         margin: {
             t: 30,
             b: 40,

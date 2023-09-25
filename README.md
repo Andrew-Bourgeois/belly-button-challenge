@@ -8,6 +8,12 @@ UNC-CH-DA - Module 14 Challenge - belly-button-challenge
 * the main app.js can be found in the repository at: /static/js/app.js
 * the index.html file can ge found in the main seciton of the repository.
 
+### **ADDITIONAL CHALLENGE(No Extra Points Added)**
+* I chose to try and add the additional guage.
+* I could not seem to find anything in the documentationa about creating the needel seen in the example PNG, so I instead chose to use the bar gauge.
+* I am going to continue to research the needle and will come back and update the code if I can find anything.
+* To match the colors of the bands I used in the example I used the built-in MAC OS pixel sampler.
+
 ### **BACKGROUND**
 Build an interactive dashboard to explore the [Belly Button Biodiversity](https://robdunnlab.com/projects/belly-button-biodiversity/) dataset, which catalogs microbes colonizing human navels.
 
