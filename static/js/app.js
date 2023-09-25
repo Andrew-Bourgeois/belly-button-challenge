@@ -64,9 +64,6 @@ function createCharts(idNoData, idMetaData) {
             t: 50,
             b: 40
         },
-        //height: ,
-        //width: 
-
     };
     Plotly.newPlot("bar", traceBar, layoutBar)
     // *****************************************************************
